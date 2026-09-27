@@ -1,0 +1,22 @@
+{
+  "aftercare-evidence-1.0.0-full.zip": {
+    "sha256": "ae054b47ea391d63104dc6132dca555dc87330636429a5626e4fd82dbebbaaa9",
+    "bytes": 1356091
+  },
+  "aftercare-evidence-1.0.0.zip": {
+    "sha256": "cf1e689730adf0f33a4d7a7211e7d15b50e7ac48728313978a5e4755d28df4e0",
+    "bytes": 17333
+  },
+  "README.md": {
+    "sha256": "17758902ab05187a275a2340f081bb11e143fd6d9b8f84c0331b0d470722f815",
+    "bytes": 1844
+  },
+  "契约修订提案.md": {
+    "sha256": "f0d6dea6e1667014e95e7236ebf569ea36fbb75de4228cc0b49fe78cd3336a8d",
+    "bytes": 6309
+  },
+  "测试报告.md": {
+    "sha256": "344c0fe77ff88b70d7af51fe43e27b1e318ee8162b29c86236b202631f423b29",
+    "bytes": 7058
+  }
+}
